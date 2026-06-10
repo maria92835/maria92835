@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maria92835" alt="maria92835" /></a> </p>
 
-
-- 📝 I regularly write articles on [https://medium.com/@mariafujisawa](https://medium.com/@mariafujisawa)
-
 - 📫 How to reach me **mariafujisawa.jp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
